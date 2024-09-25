@@ -16,7 +16,7 @@ html {
 
 body {
   color: #333;
-  background: #fff;
+  background: #052a1f;
   font: 16px/1.6 "Muli", sans-serif;
   min-width: 320px;
   -webkit-font-smoothing: antialiased;
@@ -71,7 +71,7 @@ p {
 }
 
 a {
-  color: #f64b4b;
+  color: #fffdfd;
   text-decoration: none;
   transition: color 0.3s ease;
 }
@@ -79,7 +79,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #f41a1a;
+  color: #918383;
 }
 
 ul,
@@ -131,11 +131,11 @@ ul,
 }
 
 .content-block ul li a:hover {
-  color: #f64b4b;
+  color: #6d6767;
 }
 
 .btn.btn-primary {
-  background: #f64b4b;
+  background: #240909;
   border-color: #f64b4b;
   padding: 13px 35px;
   font-size: 14px;
@@ -284,7 +284,7 @@ textarea {
   width: 35px;
   height: 35px;
   background: #fff;
-  color: #f64b4b;
+  color: #359f86;
   border-radius: 50%;
   display: block;
   text-align: center;

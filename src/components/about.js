@@ -15,7 +15,7 @@ function AppAbout() {
     <section id="about" className="block about-block">
       <Container fluid>
         <div className="title-holder">
-          <h2>About Us</h2>
+          <h2>Josh Hall</h2>
           <div className="subtitle">learn more about us</div>
         </div>
         <Row>

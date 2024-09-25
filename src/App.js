@@ -24,9 +24,9 @@ function App() {
         <AppAbout />
         <AppServices />
         <AppWorks />
-        <AppTeams />
+       
         <AppTestimonials />
-        <AppPricing />
+      
         <AppBlog />
         <AppContact />
       </main>
